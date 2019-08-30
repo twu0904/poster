@@ -1,0 +1,3 @@
+This poster is using R to help people understand the burden of healthcare and housing spending on US households.
+The data that was collected come from the Consumer Expenditure Survey (CES) that has been done by the US Census Bureau of Labor Statistics since 1984. The defition of living wage from Professor Amy Glasmeier that help us find the gap between what people need to spend and what they actually spend was used.
+We seperated people into 10 groups by their income from low to high. Seven main categories of consumer expenditure, such as personal insurance, food, transportation and so on, were compared. 
